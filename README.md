@@ -1,10 +1,10 @@
-### Olá, pessoas!! Eu sou a Caroline Santana 👋
+### Olá!! Aqui quem fala é a Caroline Santana. 👋
 
-- 🔭 Atualmente trabalho como back end, analista de dados e projetos. 
+- 🔭 Minhas atuações e especializações englobam as áreas de back end, análise de dados e gestão de projetos. 
 - 🌱 Estou aprimorando minhas skills em Python e Dax (Power BI)
-- 📫 Contate-me no e-mail: csslih@gmail.com
-- ⚡ Pronouns: Ela/Dela
-- 😄 Fun fact: Sou basicamente viciada em séries derivadas de jogos, gosto de ler romances policiais, arranho violão e sou mãe de gatos.
+- 📫 Você pode entrar em contato comigo no e-mail: csslih@gmail.com
+- ⚡ Meus pronomes são: Ela/Dela
+- 😄 Fun facts: Sou basicamente viciada em séries derivadas de jogos, gosto de ler romances policiais, arranho violão e sou mãe de gatos.
 
 <div align="center">
   <a href="https://github.com/csslih">
